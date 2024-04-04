@@ -1,5 +1,8 @@
 # Tic_Tac_Toe Multiplayer Game
 
+https://github.com/RounitSingh/Multiplayer_Game/assets/117521913/00250122-c334-4395-b498-249db19de3b8
+
+
  # Steps to run the code :
   <ol>
      <li>Download the zip file of project and extract it. Open it in a code editor.
@@ -10,6 +13,10 @@
   <ol>
  
 # Instructions for the game
+
+![WhatsApp Image 2024-04-04 at 11 08 04_8ba8cd70](https://github.com/RounitSingh/Multiplayer![WhatsApp Image 2024-04-04 at 11 09 10_418835dd](https://github.com/RounitSingh/Multiplayer_Game/assets/117521913/90b17f63-f33d-4bea-8fc1-693ee0c0a0a3)
+_Game/assets/117521913/f0725c4b-8019-431d-8aab-c795db6f1d84)
+
 <ol>
   <li>The game is played on a grid that’s 3 squares by 3 squares</li>
   <li>You are "X", your friend (or the computer in this case) is "O"</li>
